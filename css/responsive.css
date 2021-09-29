@@ -1,0 +1,130 @@
+
+@media(max-width:768px){
+    .btn-primary {
+        display: inherit;
+    }
+    .navbar-light .navbar-toggler{
+        display: none;
+    }
+    .top_menu ul {
+        display: none;
+    }
+}
+@media(max-width:576px) and (min-width:320px){
+    .top_social ul{
+        margin-left: 10px;
+    }
+    .shipping_hover {
+        margin-bottom: 15px;
+    }
+    .single_footer h5 {
+        margin-top: 20px;
+    }
+    .top_social ul li a i {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+    }
+    .btn_subscribe {
+        margin-top: 15px;
+    }
+    .footer_text h4 {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .footer_logo{
+        width: 80%;
+        margin: auto;
+    }
+    .copyright p {
+        margin-top: 30px;
+    }
+    .top_heart {
+        margin: auto;
+    }
+    .top_hotline h3 {
+        margin-top: 30px;
+    }
+    .cart_shadow {
+        margin-bottom: 20px;
+    }
+    .man {
+        margin-top: 16px;
+    }
+    .carousel-caption {
+        bottom: 11%;
+    }
+}
+@media(max-width:768px) and (min-width:576px){
+    .top_sign ul li {
+        margin-left: 19px;
+    }
+    .top_hotline ul li {
+        margin-left: 6px;
+    }
+    .top_form form input {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .btn_Search {
+        width: 50%;
+        margin: 0 50px;
+    }
+    .top_social {
+        margin-left: -70px;
+    }
+    .banner_content h2 {
+        font-size: 20px;
+    }
+    .banner_content p {
+        font-size: 15px;
+        color: black;
+        padding: 0px;
+    }
+    .banner_content {
+        top: 94px;
+    }
+    .btn_View {
+        padding: 4px 10px;
+    }
+    .media_body h5 {
+        font-size: 17px;
+    }
+    .media_body p {
+        font-size: 12px;
+    }
+    .footer_text h4 {
+        font-size: 21px;
+    }
+    .btn_subscribe {
+        padding: 10px 17px;
+        margin-top: 15px;
+    }
+    .copyright p {
+        font-size: 14px;
+        margin-top: 106px;
+    }
+    .social ul li {
+        margin-left: 16px;
+    }
+    .next_two {
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+}
+@media(max-width:576px){
+    .cart_price{
+        width: 100%;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .top_menu ul li {
+        margin-left: 10px;
+    }
+    .banner_content h2 {
+        font-size: 20px;
+    }
+    .top_sign ul li {
+        margin-left: 24px;
+    }
+}
